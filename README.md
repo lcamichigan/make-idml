@@ -18,7 +18,7 @@ To create an IDML file from the contents of a folder named Document IDML, open
 PowerShell or Command Prompt in Document IDML, and then enter:
 
 ```
-.\make-idml ..\Document.idml
+make-idml ..\Document.idml
 ```
 
 This will create Document.idml in the parent folder of Document IDML.
@@ -28,5 +28,5 @@ of a folder named Document IDML, enter in Terminal:
 
 ```sh
 cd 'path/to/Document IDML'
-./make-idml ../Document.idml
+make-idml ../Document.idml
 ```
