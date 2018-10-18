@@ -26,7 +26,7 @@ This will create Document.idml in the parent folder of Document IDML.
 On macOS, use [make-idml](make-idml). To create an IDML file from the contents
 of a folder named Document IDML, enter in Terminal:
 
-```
+```sh
 cd 'path/to/Document IDML'
 ./make-idml ../Document.idml
 ```
