@@ -11,7 +11,7 @@ Chocolatey, follow the instructions at https://chocolatey.org/install. After you
 install Chocolatey, enter in PowerShell or Command Prompt:
 
 ```
-choco install zip -y
+choco install zip
 ```
 
 To create an IDML file from the contents of a folder named Document IDML, open
